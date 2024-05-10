@@ -6,7 +6,7 @@
   <link href="https://bunnyattic.github.io/atom.xml" rel="self"/>
   
   <link href="https://bunnyattic.github.io/"/>
-  <updated>2024-05-09T05:22:08.557Z</updated>
+  <updated>2024-05-10T12:07:01.193Z</updated>
   <id>https://bunnyattic.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>장미꽃</title>
+    <link href="https://bunnyattic.github.io/2024/05/10/image001/"/>
+    <id>https://bunnyattic.github.io/2024/05/10/image001/</id>
+    <published>2024-05-10T11:40:38.000Z</published>
+    <updated>2024-05-10T12:07:01.193Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/free106.jpg"><br><img src="/images/free107.jpg"><br><img src="/images/free108.jpg"><br><img src="/images/free109.jpg"><br><img src="/images/free110.jpg"><br><img src="/images/free111.jpg"><br><img src="/images/free112.jpg"><br><img src="/images/free113.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/free106.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/free107.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/free108.jpg&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/free109.jpg&quot;&gt;&lt;</summary>
+      
+    
+    
+    
+    <category term="image" scheme="https://bunnyattic.github.io/categories/image/"/>
+    
+    <category term="MIT License" scheme="https://bunnyattic.github.io/categories/image/MIT-License/"/>
+    
+    
+    <category term="장미" scheme="https://bunnyattic.github.io/tags/%EC%9E%A5%EB%AF%B8/"/>
+    
+    <category term="꽃" scheme="https://bunnyattic.github.io/tags/%EA%BD%83/"/>
+    
+    <category term="MIT Licence" scheme="https://bunnyattic.github.io/tags/MIT-Licence/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

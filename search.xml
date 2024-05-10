@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>장미꽃</title>
-    <url>/2024/05/10/image001/</url>
-    <content><![CDATA[<p><img src="/images/free106.jpg"><br><img src="/images/free107.jpg"><br><img src="/images/free108.jpg"><br><img src="/images/free109.jpg"><br><img src="/images/free110.jpg"><br><img src="/images/free111.jpg"><br><img src="/images/free112.jpg"><br><img src="/images/free113.jpg"></p>
-]]></content>
-      <categories>
-        <category>image</category>
-        <category>MIT License</category>
-      </categories>
-      <tags>
-        <tag>장미</tag>
-        <tag>꽃</tag>
-        <tag>MIT Licence</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2024/05/09/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -32,5 +17,35 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>&lt;일러스트&gt; 장미꽃</title>
+    <url>/2024/05/10/image001/</url>
+    <content><![CDATA[<p><img src="/images/free106.jpg"><br><img src="/images/free107.jpg"><br><img src="/images/free108.jpg"><br><img src="/images/free109.jpg"><br><img src="/images/free110.jpg"><br><img src="/images/free111.jpg"><br><img src="/images/free112.jpg"><br><img src="/images/free113.jpg"></p>
+]]></content>
+      <categories>
+        <category>image</category>
+        <category>MIT License</category>
+      </categories>
+      <tags>
+        <tag>장미</tag>
+        <tag>꽃</tag>
+        <tag>MIT Licence</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>&lt;일러스트&gt; 일하는 사람 드로잉 스타일</title>
+    <url>/2024/05/10/image002/</url>
+    <content><![CDATA[<p><img src="/images/free098.jpg"><br><img src="/images/free099.jpg"><br><img src="/images/free100.jpg"><br><img src="/images/free102.jpg"><br><img src="/images/free103.jpg"><br><img src="/images/free104.jpg"><br><img src="/images/free105.jpg"></p>
+]]></content>
+      <categories>
+        <category>image</category>
+        <category>MIT License</category>
+      </categories>
+      <tags>
+        <tag>MIT Licence</tag>
+        <tag>드로잉</tag>
+        <tag>일하는 사람</tag>
+      </tags>
   </entry>
 </search>
